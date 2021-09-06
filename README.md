@@ -17,17 +17,17 @@ O objetivo do app é mostrar o uso dos hooks useState, useEffect e a criação d
 * Iniciar o backend
 * Iniciar o frontend
 
-### 4 - Como rodar o backend
+#### Como rodar o backend
 * Entrar na pasta backend
 * Baixar as dependências - rodar o comando ``` yarn ```
 * Inicializar o app - rodar o comando ``` yarn start ```
 
-### 5 - Como rodar o frontend
+#### Como rodar o frontend
 * Entrar na pasta frontend
 * Baixar as dependências - rodar o comando ``` yarn ```
 * Inicializar o app - rodar o comando ``` yarn start ```
 
-### 6 - Imagem do App
+## 6 - Imagem do App
 <p align="center">
   <img src="/print-Sistema.png">
 </p>
