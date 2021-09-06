@@ -2,17 +2,17 @@
 App construído durante o Desafio 2 do Bootcamp de React da IGTI
 
 
-## 1 - Sobre o App:
+## Sobre o App:
 Aplicativo com consulta aos dados de eleições fictícias no mundo DC e Marvel.
 
 O objetivo do app é mostrar o uso dos hooks useState, useEffect e a criação de componentes React.
 
-## 2 - Tecnologias utilizadas:
+## Tecnologias utilizadas:
 * ReactJs
 * HTML
 * CSS
 
-## 3 - Como rodar
+## Como rodar
 * Fazer um clone deste repositório
 * Iniciar o backend
 * Iniciar o frontend
